@@ -46,6 +46,7 @@ Comenzile sunt implementate in clasa User din pachetul tasks.
  userului inseamna ca videoclipul nu a fost vazut.
    
    -----------QUERY-URILE-----------
+   
 ----------> pentru actori
 Query-urile pentru actori sunt in taska Actor din pachetul tasks.
 
