@@ -12,7 +12,8 @@ In clasa tasks am taskurile implementate, in niste clase care au fost initial co
 din packetul fileio, respectiv clasele date in schelet * initial credeam ca nu aveam
 voie sa completam in clasele acelea, de asta am vrut sa-mi fac eu clasele chiar daca
 este o pierdere de memorie si cod duplicat *.
-    -----------COMENZILE-----------
+
+    -----------TASKURI-----------
 
 Comenzile sunt implementate in clasa User din pachetul tasks.
 
