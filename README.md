@@ -48,6 +48,7 @@ Comenzile sunt implementate in clasa User din pachetul tasks.
    -----------QUERY-URILE-----------
    
 ----------> pentru actori
+
 Query-urile pentru actori sunt in taska Actor din pachetul tasks.
 
 -> Average: Pentru acest task am creeat o metoda abstracta getAverageOfRatings
@@ -101,6 +102,7 @@ ca la celelalte querys. Daca este ascendent in lista finala pun actorii sortati 
 invers.
 
 ----------> pentru video-uri
+  
 Aceste taskuri sunt implementate in clasele Movie, respectiv Serial.
 
 -> Rating : Parcurg lista de movie-uri, punand intr-o mapa titlul fiecarui film si averagerating-ul
@@ -149,6 +151,7 @@ se va intoarce toata lista, daca da se va itera pana la n si ce a fost gasit se 
 Pentru seriale algoritmul este asemanator, acestea neavand diferente pentru acest task.
 
 ----------> pentru useri
+  
 Acest task este implementat in clasa User.
 
 ->Number of ratings : Pun intr-o mapa numele utilizatorul si nr de ratinguri date *vezi metoda de care am zis
@@ -159,6 +162,7 @@ de sort type. Aici nu exista filtre deci in final array pun efectiv lista sortat
 La final tin cont de N dat.
 
     -----------COMENZILE-----------
+  
 Comenzile sunt implementate in clasa user.
 
 -----------> pentru useri basic
