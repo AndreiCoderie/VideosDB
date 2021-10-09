@@ -44,7 +44,8 @@ Comenzile sunt implementate in clasa User din pachetul tasks.
  si in lista de ratinguri din Movie, ratingul primit si in message pun mesajul
  dorit la afisare. Daca titlul nu se afla printre cheile din mapa de istoric a
  userului inseamna ca videoclipul nu a fost vazut.
-     -----------QUERY-URILE-----------
+   
+   -----------QUERY-URILE-----------
 ----------> pentru actori
 Query-urile pentru actori sunt in taska Actor din pachetul tasks.
 
